@@ -1,4 +1,4 @@
-# C# Banka Uygulaması (2024‑2025 Güz Dönemi)
+# C# Banka Uygulaması (2023‑2024 Güz Dönemi)
 
 > Sakarya Üniversitesi Bilgisayar Mühendisliği – **Veri Tabanı Yönetim Sistemleri** dersi dönem projesi  
 > **Geliştiriciler:** İbrahim Güldemir · Süleyman Samet Kaya  
